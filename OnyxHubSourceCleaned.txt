@@ -584,10 +584,10 @@ do
 	v2 = createWindow(v3, tbl)
 end
 
-v2:Tag({ Title = "@OnyxScripts", Icon = "youtube", Color = Color3.fromHex("#ffffff"), Radius = 6 })
+v2:Tag({ Title = "@ScriptDox", Icon = "youtube", Color = Color3.fromHex("#ffffff"), Radius = 6 })
 
 v2:Tag({
-	Title = "discord.gg/onyxscripts",
+	Title = "https://discord.gg/jKsNYcbwaY",
 	Icon = "message-square-more",
 	Color = Color3.fromHex("#ffffff"),
 	Radius = 6,
